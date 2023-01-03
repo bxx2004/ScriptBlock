@@ -1,0 +1,6 @@
+name: ScriptBlock
+version: '${version}'
+main: net.bxx2004.scriptblock.ScriptBlockMain
+api-version: 1.19
+authors: [ bxx2004 ]
+description: Script
